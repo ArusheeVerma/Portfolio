@@ -1,0 +1,12 @@
+.app {
+  height: 100vh;
+}
+
+.app .sections {
+  width: 100%;
+  height: calc(100vh - 70px);
+  background-color: aquamarine;
+  position: relative;
+  top: 70px;
+}
+/*# sourceMappingURL=app.css.map */
